@@ -1,0 +1,10 @@
+D:\LWH\AutoMouse\AutoMouse\AutoMouse\bin\Debug\AutoMouse.exe.config
+D:\LWH\AutoMouse\AutoMouse\AutoMouse\bin\Debug\AutoMouse.exe
+D:\LWH\AutoMouse\AutoMouse\AutoMouse\bin\Debug\AutoMouse.pdb
+D:\LWH\AutoMouse\AutoMouse\AutoMouse\obj\Debug\AutoMouse.Form1.resources
+D:\LWH\AutoMouse\AutoMouse\AutoMouse\obj\Debug\AutoMouse.Properties.Resources.resources
+D:\LWH\AutoMouse\AutoMouse\AutoMouse\obj\Debug\AutoMouse.csproj.GenerateResource.cache
+D:\LWH\AutoMouse\AutoMouse\AutoMouse\obj\Debug\AutoMouse.csproj.CoreCompileInputs.cache
+D:\LWH\AutoMouse\AutoMouse\AutoMouse\obj\Debug\AutoMouse.exe
+D:\LWH\AutoMouse\AutoMouse\AutoMouse\obj\Debug\AutoMouse.pdb
+D:\LWH\AutoMouse\AutoMouse\AutoMouse\obj\Debug\AutoMouse.csprojAssemblyReference.cache
